@@ -1,0 +1,9 @@
+C:\Users\Маргарита\Desktop\Учебное\3 курс\практика\Pract\Pract\bin\Debug\Pract.exe.config
+C:\Users\Маргарита\Desktop\Учебное\3 курс\практика\Pract\Pract\bin\Debug\Pract.exe
+C:\Users\Маргарита\Desktop\Учебное\3 курс\практика\Pract\Pract\bin\Debug\Pract.pdb
+C:\Users\Маргарита\Desktop\Учебное\3 курс\практика\Pract\Pract\obj\Debug\Pract.Form1.resources
+C:\Users\Маргарита\Desktop\Учебное\3 курс\практика\Pract\Pract\obj\Debug\Pract.Properties.Resources.resources
+C:\Users\Маргарита\Desktop\Учебное\3 курс\практика\Pract\Pract\obj\Debug\Pract.csproj.GenerateResource.Cache
+C:\Users\Маргарита\Desktop\Учебное\3 курс\практика\Pract\Pract\obj\Debug\Pract.exe
+C:\Users\Маргарита\Desktop\Учебное\3 курс\практика\Pract\Pract\obj\Debug\Pract.pdb
+C:\Users\Маргарита\Desktop\Учебное\3 курс\практика\Pract\Pract\obj\Debug\Pract.csprojResolveAssemblyReference.cache
